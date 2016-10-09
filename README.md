@@ -1,2 +1,0 @@
-# ThoughtWorks
-homework
